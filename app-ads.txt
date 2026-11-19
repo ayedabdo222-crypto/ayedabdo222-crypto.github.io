@@ -3,6 +3,9 @@
 # ironSource / LevelPlay
 ironsrc.com, 694687, DIRECT
 
+# Liftoff Monetize (Vungle)
+vungle.com, 6aff4fe4969a21bd301d81f7, DIRECT, c107d686becd2d77
+
 # InMobi
 inmobi.com, eabf8a541c1d4bd98f9e4c6b6340d7dd, DIRECT, 83e75a7ae333ca9d
 mintegral.com, 10003, RESELLER
